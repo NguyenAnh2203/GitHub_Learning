@@ -31,8 +31,9 @@ git init
 ### Kết nối với GitHub
 
 ```bash
-git remote add origin <git_url>
-git remote -v
+git abc
+git remote add origin <git_url>         // tạo kết nối
+git remote -v                           // Kiểm tra xem đã kết nối chưa
 ```
 
 ### Push lên GitHub
