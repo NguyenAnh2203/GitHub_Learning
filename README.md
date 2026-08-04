@@ -35,10 +35,11 @@ git remote add origin <git_url>         // tạo kết nối
 git remote -v                           // Kiểm tra xem đã kết nối chưa
 ```
 
-### Push lên GitHub
+### Push/Pull lên GitHub
 
 ```bash
-git add .        
+git add .  
+git add 'filename'
 git commit -m "Initial commit"
 git push -u origin main
 ```
