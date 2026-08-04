@@ -41,7 +41,7 @@ git remote -v                           // Kiểm tra xem đã kết nối chưa
 git add .  
 git add 'filename'
 git commit -m "Initial commit"
-git push -u origin main
+git push (-u) origin main
 ```
 ## Các bước push code lên github
 ``` bash
