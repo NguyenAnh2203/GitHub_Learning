@@ -31,7 +31,6 @@ git init
 ### Kết nối với GitHub
 
 ```bash
-git abc
 git remote add origin <git_url>         // tạo kết nối
 git remote -v                           // Kiểm tra xem đã kết nối chưa
 ```
@@ -39,7 +38,14 @@ git remote -v                           // Kiểm tra xem đã kết nối chưa
 ### Push lên GitHub
 
 ```bash
-git add .
+git add .        
 git commit -m "Initial commit"
 git push -u origin main
+```
+## Các bước push code lên github
+``` bash
+Viet code
+Add code
+Commit code
+Push code
 ```
